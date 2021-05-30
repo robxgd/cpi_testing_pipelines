@@ -1,0 +1,9 @@
+#Store metainfo properties
+#Sun May 30 19:31:11 UTC 2021
+nodeType=IFLMAP
+OriginBundleName=CP003 - IF0011 - mappingChange
+OriginBundleSymbolicName=CP003_-_IF0011_-_mappingChange
+productProfile=iflmap
+description=this is a test flow to mock a change in the mapping
+source=POSTMAN
+target=CPI
